@@ -16,7 +16,7 @@
   - differntial bundling - support older browser
   - diagonstic
   - Error Handling
-  - host you app no HTTPS
+  - host your app in HTTPS
   - tree shaking algo --> remove unuse code for you.
   - different dev and production and bundle
  
